@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.hibernate.ogm:hibernate-ogm-core:4.1.0.Beta1">
+    <CLASSES>
+      <root url="jar://D:/maven-3.1.0/repo/org/hibernate/ogm/hibernate-ogm-core/4.1.0.Beta1/hibernate-ogm-core-4.1.0.Beta1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven-3.1.0/repo/org/hibernate/ogm/hibernate-ogm-core/4.1.0.Beta1/hibernate-ogm-core-4.1.0.Beta1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven-3.1.0/repo/org/hibernate/ogm/hibernate-ogm-core/4.1.0.Beta1/hibernate-ogm-core-4.1.0.Beta1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
